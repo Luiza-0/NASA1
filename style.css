@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    height: 100%;
+}
+
+.titulo_pag {
+    font-weight: bold; 
+    margin-top: 150px;
+}
+
+.coluna_doc div{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_article {
+    font-weight:lighter;
+}
+
+.sideBar {
+    background-color:rgba(68, 147, 212, 0.904);
+}
+
+#logo {
+    width: 250px; 
+    height: 150px; 
+    margin: 15px auto;
+}
+
+#article1 {
+    margin-top: 200px;
+}
+
+.tabela_catraca {
+    width: 100%;
+}
+
+.titulo-sec {
+    margin-top: 30px;
+}
+
+ul li a{
+    margin: auto;
+    color: aliceblue;
+    font-weight: 200;
+}
+
+.nav-link{
+    transition: all .3s ease;
+}
+
+.nav-link:hover {
+    transform: translate3d(5px,0,0);
+}
+  
+#logo{
+    margin: 20px auto;
+}
+
+#article1 span{
+    font-weight: bold;
+}
